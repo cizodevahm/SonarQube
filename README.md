@@ -50,4 +50,3 @@ Access the SonarQube web interface to view the analysis results for your Swift p
 
 Ensure that your Swift project follows best practices and coding standards to get meaningful results from the SonarQube analysis.
 Keep an eye on the official SonarQube documentation and community forums for updates on Swift support.
-Remember to check the latest documentation or community forums for any updates or changes in the integration process, as the Swift ecosystem and SonarQube support may have evolved since my last update.
