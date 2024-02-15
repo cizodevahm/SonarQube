@@ -49,4 +49,3 @@ Access the SonarQube web interface to view the analysis results for your Swift p
 
 
 Ensure that your Swift project follows best practices and coding standards to get meaningful results from the SonarQube analysis.
-Keep an eye on the official SonarQube documentation and community forums for updates on Swift support.
