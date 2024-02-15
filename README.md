@@ -1,5 +1,5 @@
 # SonarQube
-Here's a Xcode general guide on how you might attempt to integrate SonarQube with Swift:
+Here's an Xcode general guide on how you might attempt to integrate SonarQube with Swift:
 
 Prerequisites:
 SonarQube Server: Ensure that you have a SonarQube server instance set up and running.
@@ -7,7 +7,6 @@ SonarQube Server: Ensure that you have a SonarQube server instance set up and ru
 SonarScanner: Download and install the SonarScanner. This is the command-line tool that analyzes code and sends the results to the SonarQube server.
 
 Steps to integrate SonarQube with Swift:
-Install the Swift Plugin (if available):
 
 Check the SonarQube Marketplace for any Swift-related plugins.
 If a Swift plugin exists, follow the plugin's documentation for installation instructions.
